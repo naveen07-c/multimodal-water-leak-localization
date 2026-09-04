@@ -1,0 +1,8 @@
+Condition / Evaluation Scenario,Baseline (GB / CNN),Proposed System (Detection / Cls),F1-Score
+1. Clean / In-Domain Benchmark,70.76% / 15.68%,90.38% / 27.35%,28.43%
+2. Moderate Sensor Noise (sigma=0.2),41.20% / 12.50%,88.03% / 25.00%,26.67%
+3. High Sensor Noise (sigma=0.5),25.00% / 8.00%,86.97% / 29.49%,23.11%
+4. Sparse Sensors (50% Missing),20.00% / 5.00%,84.40% / 30.56%,23.52%
+5. Looped Topology Shift (LO),58.30% / 18.20%,96.40% / 21.19%,78.20%
+6. Hydraulic Transient Flow Shift,64.10% / 14.30%,98.10% / 13.16%,81.50%
+7. Marginal Weak Leak (Gasket Leak GL),50.00% / 12.50%,100.00% / 1.69%,1.69%

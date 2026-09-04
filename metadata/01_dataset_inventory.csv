@@ -1,0 +1,283 @@
+sensor_type,sensor_id,topology,flow_condition,noise_condition,leak_type,file_count
+Accelerometer,A1,Branched,0 L/s No Demand,N,Circumferential Crack,1
+Accelerometer,A1,Branched,0 L/s No Demand,N,Gasket Leak,1
+Accelerometer,A1,Branched,0 L/s No Demand,N,Longitudinal Crack,1
+Accelerometer,A1,Branched,0 L/s No Demand,N,No-leak,1
+Accelerometer,A1,Branched,0 L/s No Demand,N,Orifice Leak,1
+Accelerometer,A1,Branched,0.18 L/s Steady Demand,N,Circumferential Crack,1
+Accelerometer,A1,Branched,0.18 L/s Steady Demand,N,Gasket Leak,1
+Accelerometer,A1,Branched,0.18 L/s Steady Demand,N,Longitudinal Crack,1
+Accelerometer,A1,Branched,0.18 L/s Steady Demand,N,No-leak,1
+Accelerometer,A1,Branched,0.18 L/s Steady Demand,N,Orifice Leak,1
+Accelerometer,A1,Branched,0.47 L/s Steady Demand,N,Circumferential Crack,1
+Accelerometer,A1,Branched,0.47 L/s Steady Demand,N,Gasket Leak,1
+Accelerometer,A1,Branched,0.47 L/s Steady Demand,N,Longitudinal Crack,1
+Accelerometer,A1,Branched,0.47 L/s Steady Demand,N,No-leak,1
+Accelerometer,A1,Branched,0.47 L/s Steady Demand,N,Orifice Leak,1
+Accelerometer,A1,Branched,Transient Flow (0.47 L/s to 0 L/s at t=20s),N,Circumferential Crack,1
+Accelerometer,A1,Branched,Transient Flow (0.47 L/s to 0 L/s at t=20s),N,Gasket Leak,1
+Accelerometer,A1,Branched,Transient Flow (0.47 L/s to 0 L/s at t=20s),N,Longitudinal Crack,1
+Accelerometer,A1,Branched,Transient Flow (0.47 L/s to 0 L/s at t=20s),N,No-leak,1
+Accelerometer,A1,Branched,Transient Flow (0.47 L/s to 0 L/s at t=20s),N,Orifice Leak,1
+Accelerometer,A1,Looped,0 L/s No Demand,N,Circumferential Crack,1
+Accelerometer,A1,Looped,0 L/s No Demand,N,Gasket Leak,1
+Accelerometer,A1,Looped,0 L/s No Demand,N,Longitudinal Crack,1
+Accelerometer,A1,Looped,0 L/s No Demand,N,No-leak,1
+Accelerometer,A1,Looped,0 L/s No Demand,N,Orifice Leak,1
+Accelerometer,A1,Looped,0.18 L/s Steady Demand,N,Circumferential Crack,1
+Accelerometer,A1,Looped,0.18 L/s Steady Demand,N,Gasket Leak,1
+Accelerometer,A1,Looped,0.18 L/s Steady Demand,N,Longitudinal Crack,1
+Accelerometer,A1,Looped,0.18 L/s Steady Demand,N,No-leak,1
+Accelerometer,A1,Looped,0.18 L/s Steady Demand,N,Orifice Leak,1
+Accelerometer,A1,Looped,0.47 L/s Steady Demand,N,Circumferential Crack,1
+Accelerometer,A1,Looped,0.47 L/s Steady Demand,N,Gasket Leak,1
+Accelerometer,A1,Looped,0.47 L/s Steady Demand,N,Longitudinal Crack,1
+Accelerometer,A1,Looped,0.47 L/s Steady Demand,N,No-leak,1
+Accelerometer,A1,Looped,0.47 L/s Steady Demand,N,Orifice Leak,1
+Accelerometer,A1,Looped,Transient Flow (0.47 L/s to 0 L/s at t=20s),N,Circumferential Crack,1
+Accelerometer,A1,Looped,Transient Flow (0.47 L/s to 0 L/s at t=20s),N,Gasket Leak,1
+Accelerometer,A1,Looped,Transient Flow (0.47 L/s to 0 L/s at t=20s),N,Longitudinal Crack,1
+Accelerometer,A1,Looped,Transient Flow (0.47 L/s to 0 L/s at t=20s),N,No-leak,1
+Accelerometer,A1,Looped,Transient Flow (0.47 L/s to 0 L/s at t=20s),N,Orifice Leak,1
+Accelerometer,A2,Branched,0 L/s No Demand,N,Circumferential Crack,1
+Accelerometer,A2,Branched,0 L/s No Demand,N,Gasket Leak,1
+Accelerometer,A2,Branched,0 L/s No Demand,N,Longitudinal Crack,1
+Accelerometer,A2,Branched,0 L/s No Demand,N,No-leak,1
+Accelerometer,A2,Branched,0 L/s No Demand,N,Orifice Leak,1
+Accelerometer,A2,Branched,0.18 L/s Steady Demand,N,Circumferential Crack,1
+Accelerometer,A2,Branched,0.18 L/s Steady Demand,N,Gasket Leak,1
+Accelerometer,A2,Branched,0.18 L/s Steady Demand,N,Longitudinal Crack,1
+Accelerometer,A2,Branched,0.18 L/s Steady Demand,N,No-leak,1
+Accelerometer,A2,Branched,0.18 L/s Steady Demand,N,Orifice Leak,1
+Accelerometer,A2,Branched,0.47 L/s Steady Demand,N,Circumferential Crack,1
+Accelerometer,A2,Branched,0.47 L/s Steady Demand,N,Gasket Leak,1
+Accelerometer,A2,Branched,0.47 L/s Steady Demand,N,Longitudinal Crack,1
+Accelerometer,A2,Branched,0.47 L/s Steady Demand,N,No-leak,1
+Accelerometer,A2,Branched,0.47 L/s Steady Demand,N,Orifice Leak,1
+Accelerometer,A2,Branched,Transient Flow (0.47 L/s to 0 L/s at t=20s),N,Circumferential Crack,1
+Accelerometer,A2,Branched,Transient Flow (0.47 L/s to 0 L/s at t=20s),N,Gasket Leak,1
+Accelerometer,A2,Branched,Transient Flow (0.47 L/s to 0 L/s at t=20s),N,Longitudinal Crack,1
+Accelerometer,A2,Branched,Transient Flow (0.47 L/s to 0 L/s at t=20s),N,No-leak,1
+Accelerometer,A2,Branched,Transient Flow (0.47 L/s to 0 L/s at t=20s),N,Orifice Leak,1
+Accelerometer,A2,Looped,0 L/s No Demand,N,Circumferential Crack,1
+Accelerometer,A2,Looped,0 L/s No Demand,N,Gasket Leak,1
+Accelerometer,A2,Looped,0 L/s No Demand,N,Longitudinal Crack,1
+Accelerometer,A2,Looped,0 L/s No Demand,N,No-leak,1
+Accelerometer,A2,Looped,0 L/s No Demand,N,Orifice Leak,1
+Accelerometer,A2,Looped,0.18 L/s Steady Demand,N,Circumferential Crack,1
+Accelerometer,A2,Looped,0.18 L/s Steady Demand,N,Gasket Leak,1
+Accelerometer,A2,Looped,0.18 L/s Steady Demand,N,Longitudinal Crack,1
+Accelerometer,A2,Looped,0.18 L/s Steady Demand,N,No-leak,1
+Accelerometer,A2,Looped,0.18 L/s Steady Demand,N,Orifice Leak,1
+Accelerometer,A2,Looped,0.47 L/s Steady Demand,N,Circumferential Crack,1
+Accelerometer,A2,Looped,0.47 L/s Steady Demand,N,Gasket Leak,1
+Accelerometer,A2,Looped,0.47 L/s Steady Demand,N,Longitudinal Crack,1
+Accelerometer,A2,Looped,0.47 L/s Steady Demand,N,No-leak,1
+Accelerometer,A2,Looped,0.47 L/s Steady Demand,N,Orifice Leak,1
+Accelerometer,A2,Looped,Transient Flow (0.47 L/s to 0 L/s at t=20s),N,Circumferential Crack,1
+Accelerometer,A2,Looped,Transient Flow (0.47 L/s to 0 L/s at t=20s),N,Gasket Leak,1
+Accelerometer,A2,Looped,Transient Flow (0.47 L/s to 0 L/s at t=20s),N,Longitudinal Crack,1
+Accelerometer,A2,Looped,Transient Flow (0.47 L/s to 0 L/s at t=20s),N,No-leak,1
+Accelerometer,A2,Looped,Transient Flow (0.47 L/s to 0 L/s at t=20s),N,Orifice Leak,1
+Dynamic Pressure Sensor,P1,Branched,0 L/s No Demand,N,Circumferential Crack,1
+Dynamic Pressure Sensor,P1,Branched,0 L/s No Demand,N,Gasket Leak,1
+Dynamic Pressure Sensor,P1,Branched,0 L/s No Demand,N,Longitudinal Crack,1
+Dynamic Pressure Sensor,P1,Branched,0 L/s No Demand,N,No-leak,1
+Dynamic Pressure Sensor,P1,Branched,0 L/s No Demand,N,Orifice Leak,1
+Dynamic Pressure Sensor,P1,Branched,0.18 L/s Steady Demand,N,Circumferential Crack,1
+Dynamic Pressure Sensor,P1,Branched,0.18 L/s Steady Demand,N,Gasket Leak,1
+Dynamic Pressure Sensor,P1,Branched,0.18 L/s Steady Demand,N,Longitudinal Crack,1
+Dynamic Pressure Sensor,P1,Branched,0.18 L/s Steady Demand,N,No-leak,1
+Dynamic Pressure Sensor,P1,Branched,0.18 L/s Steady Demand,N,Orifice Leak,1
+Dynamic Pressure Sensor,P1,Branched,0.47 L/s Steady Demand,N,Circumferential Crack,1
+Dynamic Pressure Sensor,P1,Branched,0.47 L/s Steady Demand,N,Gasket Leak,1
+Dynamic Pressure Sensor,P1,Branched,0.47 L/s Steady Demand,N,Longitudinal Crack,1
+Dynamic Pressure Sensor,P1,Branched,0.47 L/s Steady Demand,N,No-leak,1
+Dynamic Pressure Sensor,P1,Branched,0.47 L/s Steady Demand,N,Orifice Leak,1
+Dynamic Pressure Sensor,P1,Branched,Transient Flow (0.47 L/s to 0 L/s at t=20s),N,Circumferential Crack,1
+Dynamic Pressure Sensor,P1,Branched,Transient Flow (0.47 L/s to 0 L/s at t=20s),N,Gasket Leak,1
+Dynamic Pressure Sensor,P1,Branched,Transient Flow (0.47 L/s to 0 L/s at t=20s),N,Longitudinal Crack,1
+Dynamic Pressure Sensor,P1,Branched,Transient Flow (0.47 L/s to 0 L/s at t=20s),N,No-leak,1
+Dynamic Pressure Sensor,P1,Branched,Transient Flow (0.47 L/s to 0 L/s at t=20s),N,Orifice Leak,1
+Dynamic Pressure Sensor,P1,Looped,0 L/s No Demand,N,Circumferential Crack,1
+Dynamic Pressure Sensor,P1,Looped,0 L/s No Demand,N,Gasket Leak,1
+Dynamic Pressure Sensor,P1,Looped,0 L/s No Demand,N,Longitudinal Crack,1
+Dynamic Pressure Sensor,P1,Looped,0 L/s No Demand,N,No-leak,1
+Dynamic Pressure Sensor,P1,Looped,0 L/s No Demand,N,Orifice Leak,1
+Dynamic Pressure Sensor,P1,Looped,0.18 L/s Steady Demand,N,Circumferential Crack,1
+Dynamic Pressure Sensor,P1,Looped,0.18 L/s Steady Demand,N,Gasket Leak,1
+Dynamic Pressure Sensor,P1,Looped,0.18 L/s Steady Demand,N,Longitudinal Crack,1
+Dynamic Pressure Sensor,P1,Looped,0.18 L/s Steady Demand,N,No-leak,1
+Dynamic Pressure Sensor,P1,Looped,0.18 L/s Steady Demand,N,Orifice Leak,1
+Dynamic Pressure Sensor,P1,Looped,0.47 L/s Steady Demand,N,Circumferential Crack,1
+Dynamic Pressure Sensor,P1,Looped,0.47 L/s Steady Demand,N,Gasket Leak,1
+Dynamic Pressure Sensor,P1,Looped,0.47 L/s Steady Demand,N,Longitudinal Crack,1
+Dynamic Pressure Sensor,P1,Looped,0.47 L/s Steady Demand,N,No-leak,1
+Dynamic Pressure Sensor,P1,Looped,0.47 L/s Steady Demand,N,Orifice Leak,1
+Dynamic Pressure Sensor,P1,Looped,Transient Flow (0.47 L/s to 0 L/s at t=20s),N,Circumferential Crack,1
+Dynamic Pressure Sensor,P1,Looped,Transient Flow (0.47 L/s to 0 L/s at t=20s),N,Gasket Leak,1
+Dynamic Pressure Sensor,P1,Looped,Transient Flow (0.47 L/s to 0 L/s at t=20s),N,Longitudinal Crack,1
+Dynamic Pressure Sensor,P1,Looped,Transient Flow (0.47 L/s to 0 L/s at t=20s),N,No-leak,1
+Dynamic Pressure Sensor,P1,Looped,Transient Flow (0.47 L/s to 0 L/s at t=20s),N,Orifice Leak,1
+Dynamic Pressure Sensor,P2,Branched,0 L/s No Demand,N,Circumferential Crack,1
+Dynamic Pressure Sensor,P2,Branched,0 L/s No Demand,N,Gasket Leak,1
+Dynamic Pressure Sensor,P2,Branched,0 L/s No Demand,N,Longitudinal Crack,1
+Dynamic Pressure Sensor,P2,Branched,0 L/s No Demand,N,No-leak,1
+Dynamic Pressure Sensor,P2,Branched,0 L/s No Demand,N,Orifice Leak,1
+Dynamic Pressure Sensor,P2,Branched,0.18 L/s Steady Demand,N,Circumferential Crack,1
+Dynamic Pressure Sensor,P2,Branched,0.18 L/s Steady Demand,N,Gasket Leak,1
+Dynamic Pressure Sensor,P2,Branched,0.18 L/s Steady Demand,N,Longitudinal Crack,1
+Dynamic Pressure Sensor,P2,Branched,0.18 L/s Steady Demand,N,No-leak,1
+Dynamic Pressure Sensor,P2,Branched,0.18 L/s Steady Demand,N,Orifice Leak,1
+Dynamic Pressure Sensor,P2,Branched,0.47 L/s Steady Demand,N,Circumferential Crack,1
+Dynamic Pressure Sensor,P2,Branched,0.47 L/s Steady Demand,N,Gasket Leak,1
+Dynamic Pressure Sensor,P2,Branched,0.47 L/s Steady Demand,N,Longitudinal Crack,1
+Dynamic Pressure Sensor,P2,Branched,0.47 L/s Steady Demand,N,No-leak,1
+Dynamic Pressure Sensor,P2,Branched,0.47 L/s Steady Demand,N,Orifice Leak,1
+Dynamic Pressure Sensor,P2,Branched,Transient Flow (0.47 L/s to 0 L/s at t=20s),N,Circumferential Crack,1
+Dynamic Pressure Sensor,P2,Branched,Transient Flow (0.47 L/s to 0 L/s at t=20s),N,Gasket Leak,1
+Dynamic Pressure Sensor,P2,Branched,Transient Flow (0.47 L/s to 0 L/s at t=20s),N,Longitudinal Crack,1
+Dynamic Pressure Sensor,P2,Branched,Transient Flow (0.47 L/s to 0 L/s at t=20s),N,No-leak,1
+Dynamic Pressure Sensor,P2,Branched,Transient Flow (0.47 L/s to 0 L/s at t=20s),N,Orifice Leak,1
+Dynamic Pressure Sensor,P2,Looped,0 L/s No Demand,N,Circumferential Crack,1
+Dynamic Pressure Sensor,P2,Looped,0 L/s No Demand,N,Gasket Leak,1
+Dynamic Pressure Sensor,P2,Looped,0 L/s No Demand,N,Longitudinal Crack,1
+Dynamic Pressure Sensor,P2,Looped,0 L/s No Demand,N,No-leak,1
+Dynamic Pressure Sensor,P2,Looped,0 L/s No Demand,N,Orifice Leak,1
+Dynamic Pressure Sensor,P2,Looped,0.18 L/s Steady Demand,N,Circumferential Crack,1
+Dynamic Pressure Sensor,P2,Looped,0.18 L/s Steady Demand,N,Gasket Leak,1
+Dynamic Pressure Sensor,P2,Looped,0.18 L/s Steady Demand,N,Longitudinal Crack,1
+Dynamic Pressure Sensor,P2,Looped,0.18 L/s Steady Demand,N,No-leak,1
+Dynamic Pressure Sensor,P2,Looped,0.18 L/s Steady Demand,N,Orifice Leak,1
+Dynamic Pressure Sensor,P2,Looped,0.47 L/s Steady Demand,N,Circumferential Crack,1
+Dynamic Pressure Sensor,P2,Looped,0.47 L/s Steady Demand,N,Gasket Leak,1
+Dynamic Pressure Sensor,P2,Looped,0.47 L/s Steady Demand,N,Longitudinal Crack,1
+Dynamic Pressure Sensor,P2,Looped,0.47 L/s Steady Demand,N,No-leak,1
+Dynamic Pressure Sensor,P2,Looped,0.47 L/s Steady Demand,N,Orifice Leak,1
+Dynamic Pressure Sensor,P2,Looped,Transient Flow (0.47 L/s to 0 L/s at t=20s),N,Circumferential Crack,1
+Dynamic Pressure Sensor,P2,Looped,Transient Flow (0.47 L/s to 0 L/s at t=20s),N,Gasket Leak,1
+Dynamic Pressure Sensor,P2,Looped,Transient Flow (0.47 L/s to 0 L/s at t=20s),N,Longitudinal Crack,1
+Dynamic Pressure Sensor,P2,Looped,Transient Flow (0.47 L/s to 0 L/s at t=20s),N,No-leak,1
+Dynamic Pressure Sensor,P2,Looped,Transient Flow (0.47 L/s to 0 L/s at t=20s),N,Orifice Leak,1
+Hydrophone,H1,Branched,0 L/s No Demand,N,Circumferential Crack,1
+Hydrophone,H1,Branched,0 L/s No Demand,N,Gasket Leak,1
+Hydrophone,H1,Branched,0 L/s No Demand,N,Longitudinal Crack,1
+Hydrophone,H1,Branched,0 L/s No Demand,N,No-leak,1
+Hydrophone,H1,Branched,0 L/s No Demand,N,Orifice Leak,1
+Hydrophone,H1,Branched,0 L/s No Demand,NN,Circumferential Crack,1
+Hydrophone,H1,Branched,0 L/s No Demand,NN,Gasket Leak,1
+Hydrophone,H1,Branched,0 L/s No Demand,NN,Longitudinal Crack,1
+Hydrophone,H1,Branched,0 L/s No Demand,NN,No-leak,1
+Hydrophone,H1,Branched,0 L/s No Demand,NN,Orifice Leak,1
+Hydrophone,H1,Branched,0.18 L/s Steady Demand,N,Circumferential Crack,1
+Hydrophone,H1,Branched,0.18 L/s Steady Demand,N,Gasket Leak,1
+Hydrophone,H1,Branched,0.18 L/s Steady Demand,N,Longitudinal Crack,1
+Hydrophone,H1,Branched,0.18 L/s Steady Demand,N,No-leak,1
+Hydrophone,H1,Branched,0.18 L/s Steady Demand,N,Orifice Leak,1
+Hydrophone,H1,Branched,0.47 L/s Steady Demand,N,Circumferential Crack,1
+Hydrophone,H1,Branched,0.47 L/s Steady Demand,N,Gasket Leak,1
+Hydrophone,H1,Branched,0.47 L/s Steady Demand,N,Longitudinal Crack,1
+Hydrophone,H1,Branched,0.47 L/s Steady Demand,N,No-leak,1
+Hydrophone,H1,Branched,0.47 L/s Steady Demand,N,Orifice Leak,1
+Hydrophone,H1,Branched,Transient Flow (0.47 L/s to 0 L/s at t=20s),N,Circumferential Crack,1
+Hydrophone,H1,Branched,Transient Flow (0.47 L/s to 0 L/s at t=20s),N,Gasket Leak,1
+Hydrophone,H1,Branched,Transient Flow (0.47 L/s to 0 L/s at t=20s),N,Longitudinal Crack,1
+Hydrophone,H1,Branched,Transient Flow (0.47 L/s to 0 L/s at t=20s),N,No-leak,1
+Hydrophone,H1,Branched,Transient Flow (0.47 L/s to 0 L/s at t=20s),N,Orifice Leak,1
+Hydrophone,H1,Branched,Transient Flow (0.47 L/s to 0 L/s at t=20s),NN,Circumferential Crack,1
+Hydrophone,H1,Branched,Transient Flow (0.47 L/s to 0 L/s at t=20s),NN,Gasket Leak,1
+Hydrophone,H1,Branched,Transient Flow (0.47 L/s to 0 L/s at t=20s),NN,Longitudinal Crack,1
+Hydrophone,H1,Branched,Transient Flow (0.47 L/s to 0 L/s at t=20s),NN,No-leak,1
+Hydrophone,H1,Branched,Transient Flow (0.47 L/s to 0 L/s at t=20s),NN,Orifice Leak,1
+Hydrophone,H1,Looped,0 L/s No Demand,N,Circumferential Crack,1
+Hydrophone,H1,Looped,0 L/s No Demand,N,Gasket Leak,1
+Hydrophone,H1,Looped,0 L/s No Demand,N,Longitudinal Crack,1
+Hydrophone,H1,Looped,0 L/s No Demand,N,No-leak,1
+Hydrophone,H1,Looped,0 L/s No Demand,N,Orifice Leak,1
+Hydrophone,H1,Looped,0 L/s No Demand,NN,Circumferential Crack,1
+Hydrophone,H1,Looped,0 L/s No Demand,NN,Gasket Leak,1
+Hydrophone,H1,Looped,0 L/s No Demand,NN,Longitudinal Crack,1
+Hydrophone,H1,Looped,0 L/s No Demand,NN,No-leak,1
+Hydrophone,H1,Looped,0 L/s No Demand,NN,Orifice Leak,1
+Hydrophone,H1,Looped,0.18 L/s Steady Demand,N,Circumferential Crack,1
+Hydrophone,H1,Looped,0.18 L/s Steady Demand,N,Gasket Leak,1
+Hydrophone,H1,Looped,0.18 L/s Steady Demand,N,Longitudinal Crack,1
+Hydrophone,H1,Looped,0.18 L/s Steady Demand,N,No-leak,1
+Hydrophone,H1,Looped,0.18 L/s Steady Demand,N,Orifice Leak,1
+Hydrophone,H1,Looped,0.47 L/s Steady Demand,N,Circumferential Crack,1
+Hydrophone,H1,Looped,0.47 L/s Steady Demand,N,Gasket Leak,1
+Hydrophone,H1,Looped,0.47 L/s Steady Demand,N,Longitudinal Crack,1
+Hydrophone,H1,Looped,0.47 L/s Steady Demand,N,No-leak,1
+Hydrophone,H1,Looped,0.47 L/s Steady Demand,N,Orifice Leak,1
+Hydrophone,H1,Looped,Transient Flow (0.47 L/s to 0 L/s at t=20s),N,Circumferential Crack,1
+Hydrophone,H1,Looped,Transient Flow (0.47 L/s to 0 L/s at t=20s),N,Gasket Leak,1
+Hydrophone,H1,Looped,Transient Flow (0.47 L/s to 0 L/s at t=20s),N,Longitudinal Crack,1
+Hydrophone,H1,Looped,Transient Flow (0.47 L/s to 0 L/s at t=20s),N,No-leak,1
+Hydrophone,H1,Looped,Transient Flow (0.47 L/s to 0 L/s at t=20s),N,Orifice Leak,1
+Hydrophone,H1,Looped,Transient Flow (0.47 L/s to 0 L/s at t=20s),NN,Circumferential Crack,1
+Hydrophone,H1,Looped,Transient Flow (0.47 L/s to 0 L/s at t=20s),NN,Gasket Leak,1
+Hydrophone,H1,Looped,Transient Flow (0.47 L/s to 0 L/s at t=20s),NN,Longitudinal Crack,1
+Hydrophone,H1,Looped,Transient Flow (0.47 L/s to 0 L/s at t=20s),NN,No-leak,1
+Hydrophone,H1,Looped,Transient Flow (0.47 L/s to 0 L/s at t=20s),NN,Orifice Leak,1
+Hydrophone,H1,N/A (Ambient Reference),Pump Off / No Flow,Ambient_Noise_Reference,N/A (Ambient Reference),1
+Hydrophone,H2,Branched,0 L/s No Demand,N,Circumferential Crack,1
+Hydrophone,H2,Branched,0 L/s No Demand,N,Gasket Leak,1
+Hydrophone,H2,Branched,0 L/s No Demand,N,Longitudinal Crack,1
+Hydrophone,H2,Branched,0 L/s No Demand,N,No-leak,1
+Hydrophone,H2,Branched,0 L/s No Demand,N,Orifice Leak,1
+Hydrophone,H2,Branched,0 L/s No Demand,NN,Circumferential Crack,1
+Hydrophone,H2,Branched,0 L/s No Demand,NN,Gasket Leak,1
+Hydrophone,H2,Branched,0 L/s No Demand,NN,Longitudinal Crack,1
+Hydrophone,H2,Branched,0 L/s No Demand,NN,No-leak,1
+Hydrophone,H2,Branched,0 L/s No Demand,NN,Orifice Leak,1
+Hydrophone,H2,Branched,0.18 L/s Steady Demand,N,Circumferential Crack,1
+Hydrophone,H2,Branched,0.18 L/s Steady Demand,N,Gasket Leak,1
+Hydrophone,H2,Branched,0.18 L/s Steady Demand,N,Longitudinal Crack,1
+Hydrophone,H2,Branched,0.18 L/s Steady Demand,N,No-leak,1
+Hydrophone,H2,Branched,0.18 L/s Steady Demand,N,Orifice Leak,1
+Hydrophone,H2,Branched,0.47 L/s Steady Demand,N,Circumferential Crack,1
+Hydrophone,H2,Branched,0.47 L/s Steady Demand,N,Gasket Leak,1
+Hydrophone,H2,Branched,0.47 L/s Steady Demand,N,Longitudinal Crack,1
+Hydrophone,H2,Branched,0.47 L/s Steady Demand,N,No-leak,1
+Hydrophone,H2,Branched,0.47 L/s Steady Demand,N,Orifice Leak,1
+Hydrophone,H2,Branched,Transient Flow (0.47 L/s to 0 L/s at t=20s),N,Circumferential Crack,1
+Hydrophone,H2,Branched,Transient Flow (0.47 L/s to 0 L/s at t=20s),N,Gasket Leak,1
+Hydrophone,H2,Branched,Transient Flow (0.47 L/s to 0 L/s at t=20s),N,Longitudinal Crack,1
+Hydrophone,H2,Branched,Transient Flow (0.47 L/s to 0 L/s at t=20s),N,No-leak,1
+Hydrophone,H2,Branched,Transient Flow (0.47 L/s to 0 L/s at t=20s),N,Orifice Leak,1
+Hydrophone,H2,Branched,Transient Flow (0.47 L/s to 0 L/s at t=20s),NN,Circumferential Crack,1
+Hydrophone,H2,Branched,Transient Flow (0.47 L/s to 0 L/s at t=20s),NN,Gasket Leak,1
+Hydrophone,H2,Branched,Transient Flow (0.47 L/s to 0 L/s at t=20s),NN,Longitudinal Crack,1
+Hydrophone,H2,Branched,Transient Flow (0.47 L/s to 0 L/s at t=20s),NN,No-leak,1
+Hydrophone,H2,Branched,Transient Flow (0.47 L/s to 0 L/s at t=20s),NN,Orifice Leak,1
+Hydrophone,H2,Looped,0 L/s No Demand,N,Circumferential Crack,1
+Hydrophone,H2,Looped,0 L/s No Demand,N,Gasket Leak,1
+Hydrophone,H2,Looped,0 L/s No Demand,N,Longitudinal Crack,1
+Hydrophone,H2,Looped,0 L/s No Demand,N,No-leak,1
+Hydrophone,H2,Looped,0 L/s No Demand,N,Orifice Leak,1
+Hydrophone,H2,Looped,0 L/s No Demand,NN,Circumferential Crack,1
+Hydrophone,H2,Looped,0 L/s No Demand,NN,Gasket Leak,1
+Hydrophone,H2,Looped,0 L/s No Demand,NN,Longitudinal Crack,1
+Hydrophone,H2,Looped,0 L/s No Demand,NN,No-leak,1
+Hydrophone,H2,Looped,0 L/s No Demand,NN,Orifice Leak,1
+Hydrophone,H2,Looped,0.18 L/s Steady Demand,N,Circumferential Crack,1
+Hydrophone,H2,Looped,0.18 L/s Steady Demand,N,Gasket Leak,1
+Hydrophone,H2,Looped,0.18 L/s Steady Demand,N,Longitudinal Crack,1
+Hydrophone,H2,Looped,0.18 L/s Steady Demand,N,No-leak,1
+Hydrophone,H2,Looped,0.18 L/s Steady Demand,N,Orifice Leak,1
+Hydrophone,H2,Looped,0.47 L/s Steady Demand,N,Circumferential Crack,1
+Hydrophone,H2,Looped,0.47 L/s Steady Demand,N,Gasket Leak,1
+Hydrophone,H2,Looped,0.47 L/s Steady Demand,N,Longitudinal Crack,1
+Hydrophone,H2,Looped,0.47 L/s Steady Demand,N,No-leak,1
+Hydrophone,H2,Looped,0.47 L/s Steady Demand,N,Orifice Leak,1
+Hydrophone,H2,Looped,Transient Flow (0.47 L/s to 0 L/s at t=20s),N,Circumferential Crack,1
+Hydrophone,H2,Looped,Transient Flow (0.47 L/s to 0 L/s at t=20s),N,Gasket Leak,1
+Hydrophone,H2,Looped,Transient Flow (0.47 L/s to 0 L/s at t=20s),N,Longitudinal Crack,1
+Hydrophone,H2,Looped,Transient Flow (0.47 L/s to 0 L/s at t=20s),N,No-leak,1
+Hydrophone,H2,Looped,Transient Flow (0.47 L/s to 0 L/s at t=20s),N,Orifice Leak,1
+Hydrophone,H2,Looped,Transient Flow (0.47 L/s to 0 L/s at t=20s),NN,Circumferential Crack,1
+Hydrophone,H2,Looped,Transient Flow (0.47 L/s to 0 L/s at t=20s),NN,Gasket Leak,1
+Hydrophone,H2,Looped,Transient Flow (0.47 L/s to 0 L/s at t=20s),NN,Longitudinal Crack,1
+Hydrophone,H2,Looped,Transient Flow (0.47 L/s to 0 L/s at t=20s),NN,No-leak,1
+Hydrophone,H2,Looped,Transient Flow (0.47 L/s to 0 L/s at t=20s),NN,Orifice Leak,1
+Hydrophone,H2,N/A (Ambient Reference),Pump Off / No Flow,Ambient_Noise_Reference,N/A (Ambient Reference),1
