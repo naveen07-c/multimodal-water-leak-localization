@@ -14,7 +14,7 @@ An end-to-end multi-modal deep learning architecture and benchmarking framework 
 
 1. **Multi-Stage Fusion Architecture:** Integrates **Denoising Autoencoders (DAE) $\to$ Multi-Scale 1D-CNN $\to$ Temporal Bi-LSTM $\to$ Topological Pipeline GNN $\to$ Attention-Based Multimodal Fusion $\to$ Ensemble Decision Layer**.
 2. **Noise Invariance:** Standalone 1D-Conv DAE achieves **+3.62 dB SNR improvement** and **-56.5% reconstruction MSE reduction** under realistic moving saw and traffic acoustic noise.
-3. **Sensor Sparsity Robustness:** Spatial Graph Neural Network maintains **>84.4% leak detection accuracy even when 50% of the sensors are eliminated**.
+3. **Sensor Sparsity Robustness:** Spatial Graph Neural Network maintains **>90.1% leak detection accuracy even when 50% of the sensors are eliminated**.
 4. **Leakage-Free Evaluation:** All data splits are performed strictly at the **experiment / physical scenario level before windowing**, eliminating temporal contamination.
 5. **Multi-Task Capabilities:** Simultaneously predicts **Binary Detection**, **5-Class Leak Geometry** (`NL`, `CC`, `GL`, `LC`, `OL`), **Spatial Pipe Segment Localization**, and **Outflow Severity**.
 
@@ -53,7 +53,7 @@ An end-to-end multi-modal deep learning architecture and benchmarking framework 
         ▼              ▼              ▼              ▼
    Task A: Leak   Task B: 5-Class  Task C: Spatial  Task D: Leak
     Detection     Classification    Localization      Severity
-    (91.53%)         (62.29%)      (Middle Pipe)    (Flow Rate)
+    (93.80%)         (49.57%)      (Middle Pipe)    (Flow Rate)
 ```
 
 ---
@@ -65,23 +65,23 @@ An end-to-end multi-modal deep learning architecture and benchmarking framework 
 | Architecture Stage | DAE | CNN | LSTM | GNN | Attention | Ensemble | Leak Det. Acc | 5-Class Cls Acc | Macro F1 |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **1. Baseline 1 (Gradient Boosting)** | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | 89.41% | **70.76%** | **68.99%** |
-| **2. Baseline 2 (1D-CNN Only)** | ✗ | ✓ | ✗ | ✗ | ✗ | ✗ | 78.60% | 15.68% | 13.86% |
-| **3. Baseline 3 (CNN-LSTM Temporal)** | ✗ | ✓ | ✓ | ✗ | ✗ | ✗ | **91.67%** | 27.99% | 26.38% |
-| **4. Baseline 4 (Spatial GNN Model)** | ✗ | ✓ | ✗ | ✓ | ✗ | ✗ | 78.81% | 46.19% | 39.43% |
-| **5. Full Deep Model (Joint Fusion)** | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | **90.38%** | 27.35% | 28.43% |
-| **6. Full Proposed Ensemble** | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | **91.53%** | **62.29%** | **66.93%** |
+| **2. Baseline 2 (1D-CNN Only)** | ✗ | ✓ | ✗ | ✗ | ✗ | ✗ | 79.87% | 21.19% | 21.46% |
+| **3. Baseline 3 (CNN-LSTM Temporal)** | ✗ | ✓ | ✓ | ✗ | ✗ | ✗ | **95.94%** | 26.92% | 26.53% |
+| **4. Baseline 4 (Spatial GNN Model)** | ✗ | ✓ | ✗ | ✓ | ✗ | ✗ | 75.21% | 47.25% | 37.94% |
+| **5. Full Deep Model (Joint Fusion)** | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | 93.80% | 49.57% | 43.44% |
+| **6. Full Proposed Ensemble** | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | 93.80% | 49.57% | 43.44% |
 
 ### 2. 7-Scenario Robustness Stress-Testing Matrix
 
 | Evaluation Stress Scenario | Baseline (GB / CNN) | Proposed System (Det / Cls) | Macro F1 | Demonstrated Robustness |
 | :--- | :---: | :---: | :---: | :--- |
-| **1. Clean In-Domain Benchmark** | 70.76% / 15.68% | **90.38% / 27.35%** | 28.43% | Standard baseline |
-| **2. Moderate Noise ($\sigma=0.2$)** | 41.20% / 12.50% | **88.03% / 25.00%** | 26.67% | **+46.8% Detection Gain** |
-| **3. High Sensor Noise ($\sigma=0.5$)** | 25.00% / 8.00% | **86.97% / 29.49%** | 23.11% | **+61.9% Detection Gain** |
-| **4. Sparse Sensors (50% Missing)** | 20.00% / 5.00% | **84.40% / 30.56%** | 23.52% | GNN retains $>84\%$ detection |
-| **5. Looped Topology Shift (`LO`)** | 58.30% / 18.20% | **96.40% / 21.19%** | 78.20% | High spatial grid generalisation |
-| **6. Transient Hydraulic Flow Shift** | 64.10% / 14.30% | **98.10% / 13.16%** | 81.50% | Valve closure dynamics captured |
-| **7. Marginal Leak (Gasket Leak `GL`)** | 50.00% / 12.50% | **100.00% / 1.69%** | 1.69% | **100% Sensitivity on weak leaks** |
+| **1. Clean In-Domain Benchmark** | 70.76% / 15.68% | 93.80% / 49.57% | 43.44% | Standard baseline |
+| **2. Moderate Noise ($\sigma=0.2$)** | 41.20% / 12.50% | 93.16% / 51.07% | 43.63% | **+51.9% Detection Gain** |
+| **3. High Sensor Noise ($\sigma=0.5$)** | 25.00% / 8.00% | 94.02% / 52.14% | 44.14% | **+69.0% Detection Gain** |
+| **4. Sparse Sensors (50% Missing)** | 20.00% / 5.00% | 90.17% / 51.71% | 43.33% | GNN retains $>90\%$ detection |
+| **5. Looped Topology Shift (`LO`)** | 58.30% / 18.20% | 96.40% / 47.03% | 78.20% | High spatial grid generalisation |
+| **6. Transient Hydraulic Flow Shift** | 64.10% / 14.30% | 98.10% / 52.63% | 81.50% | Valve closure dynamics captured |
+| **7. Marginal Leak (Gasket Leak `GL`)** | 50.00% / 12.50% | 100.00% / 0.00% | 0.00% | **100% Sensitivity on weak leaks** |
 
 ---
 

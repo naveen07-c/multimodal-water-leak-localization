@@ -1,0 +1,19 @@
+{
+    "model": "models/safnet",
+    "dataset": "mendeley",
+    "accuracy": 0.7584745762711864,
+    "f1_score": 0.43132530120481927,
+    "precision": 0.4292565947242206,
+    "recall": 0.43341404358353514,
+    "auc_roc": 0.8294824968194688,
+    "confusion_matrix": [
+        [
+            0,
+            59
+        ],
+        [
+            55,
+            358
+        ]
+    ]
+}

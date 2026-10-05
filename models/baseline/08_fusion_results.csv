@@ -1,0 +1,2 @@
+experiment_name,model_type,input_type,leak_det_acc,leak_cls_acc,precision,recall,f1_macro,auc_roc,confusion_matrix,val_cls_acc
+Full Proposed (DAE + CNN + LSTM + GNN + Attention Fusion),Full-Proposed-System,Multimodal Sequence (5 x 6 x 8000),0.938034188034188,0.49572649572649574,0.42473727905417463,0.49857270294380013,0.43441863681494014,0.9975135717541751,"[[59, 0, 0, 0, 0], [0, 90, 19, 4, 1], [0, 33, 0, 26, 0], [0, 55, 25, 15, 23], [44, 0, 2, 4, 68]]",0.6647
